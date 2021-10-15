@@ -1,0 +1,16 @@
+C:\Users\jiami\source\repos\CodeKata1\CodeKata1\bin\Debug\net5.0\CodeKata1.exe
+C:\Users\jiami\source\repos\CodeKata1\CodeKata1\bin\Debug\net5.0\CodeKata1.deps.json
+C:\Users\jiami\source\repos\CodeKata1\CodeKata1\bin\Debug\net5.0\CodeKata1.runtimeconfig.json
+C:\Users\jiami\source\repos\CodeKata1\CodeKata1\bin\Debug\net5.0\CodeKata1.runtimeconfig.dev.json
+C:\Users\jiami\source\repos\CodeKata1\CodeKata1\bin\Debug\net5.0\CodeKata1.dll
+C:\Users\jiami\source\repos\CodeKata1\CodeKata1\bin\Debug\net5.0\ref\CodeKata1.dll
+C:\Users\jiami\source\repos\CodeKata1\CodeKata1\bin\Debug\net5.0\CodeKata1.pdb
+C:\Users\jiami\source\repos\CodeKata1\CodeKata1\obj\Debug\net5.0\CodeKata1.csproj.AssemblyReference.cache
+C:\Users\jiami\source\repos\CodeKata1\CodeKata1\obj\Debug\net5.0\CodeKata1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiami\source\repos\CodeKata1\CodeKata1\obj\Debug\net5.0\CodeKata1.AssemblyInfoInputs.cache
+C:\Users\jiami\source\repos\CodeKata1\CodeKata1\obj\Debug\net5.0\CodeKata1.AssemblyInfo.cs
+C:\Users\jiami\source\repos\CodeKata1\CodeKata1\obj\Debug\net5.0\CodeKata1.csproj.CoreCompileInputs.cache
+C:\Users\jiami\source\repos\CodeKata1\CodeKata1\obj\Debug\net5.0\CodeKata1.dll
+C:\Users\jiami\source\repos\CodeKata1\CodeKata1\obj\Debug\net5.0\ref\CodeKata1.dll
+C:\Users\jiami\source\repos\CodeKata1\CodeKata1\obj\Debug\net5.0\CodeKata1.pdb
+C:\Users\jiami\source\repos\CodeKata1\CodeKata1\obj\Debug\net5.0\CodeKata1.genruntimeconfig.cache
